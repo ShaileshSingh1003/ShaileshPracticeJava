@@ -1,0 +1,6 @@
+<natures>
+</natures>
+and change it to
+<natures>
+<nature>org.eclipse.jdt.core.javanature</nature>
+</natures>
